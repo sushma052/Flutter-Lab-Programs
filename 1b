@@ -1,3 +1,4 @@
+ b) Write a simple Dart program to understand the language basics.
 void main() {
   String name = 'John';
   int age = 20;
